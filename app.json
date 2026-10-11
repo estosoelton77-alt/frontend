@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Uncle Rupert",
+    "slug": "uncle-rupert-ordering",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}
